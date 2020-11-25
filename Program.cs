@@ -1,6 +1,7 @@
 ﻿using Microsoft.Extensions.DependencyInjection;
 using System;
 using System.Threading.Tasks;
+using WeatherAPI;
 using WeatherAPI.DTOs;
 using WeatherAPI.Services;
 
